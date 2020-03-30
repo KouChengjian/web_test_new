@@ -1,0 +1,8 @@
+* {
+  box-sizing: border-box !important;
+  -webkit-box-sizing: border-box !important;
+  word-wrap: break-word !important;
+  outline: 0 none !important;
+  margin: 0;
+  padding: 0;
+}
